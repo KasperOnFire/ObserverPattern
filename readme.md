@@ -70,5 +70,5 @@ Tobias, Is the server down? answer: true
 Kasper, Is the server down? answer: true
 ```
 
-Testing this out in the main, we see that once **changeIsDOwn()** is called, every observer is notified of this and receives the new value.
+Testing this out in the main, we see that once **changeIsDown()** is called, every observer is notified of this and receives the new value.
 ___
